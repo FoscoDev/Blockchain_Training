@@ -1,6 +1,6 @@
 # Blockchain_Training
 TERMS OF REFERENCE FOR THE BLC-SUPPLY CHAIN MANAGEMENT SYSTEM
-System description
+System Description
 BLC-Supply, a chain management system, is a blockchain-based agricultural supplies software that helps supplies of farm supplies and equipment to manufacturing plants and farming facilities. The application allows businesses, especially hotels, to have an element of traceability that has become one of the essential requirements for hotel supply chain players in the last few years. 
 Overview and Purpose of the System
 Currently, many unhealthy products have been known to pose grave threats to people and the hotel industry. In addition, people cannot know the actual value of the bought farm products due to the lack of transparency in the current supply chain systems. Further, there are cases of tampering with these systems resulting in illegal and unethical practices. The BLC-Supply chain management system seeks to mitigate some of these issues and fix the supply chain management problems.  
