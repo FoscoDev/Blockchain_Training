@@ -1,1 +1,21 @@
 # Blockchain_Training
+TERMS OF REFERENCE FOR THE BLC-SUPPLY CHAIN MANAGEMENT SYSTEM
+System description
+BLC-Supply, a chain management system, is a blockchain-based agricultural supplies software that helps supplies of farm supplies and equipment to manufacturing plants and farming facilities. The application allows businesses, especially hotels, to have an element of traceability that has become one of the essential requirements for hotel supply chain players in the last few years. 
+Overview and Purpose of the System
+Currently, many unhealthy products have been known to pose grave threats to people and the hotel industry. In addition, people cannot know the actual value of the bought farm products due to the lack of transparency in the current supply chain systems. Further, there are cases of tampering with these systems resulting in illegal and unethical practices. The BLC-Supply chain management system seeks to mitigate some of these issues and fix the supply chain management problems.  
+System content (system boundaries)
+BLC-Supply, a chain management system, uses blockchain technologies employing the distributed ledger to give it the capacity to record transactions between parties in a more verifiable manner easily. The use of decentralization, distribution, transparency, and the immutable nature of blockchain transactions will help solve the issue of counterfeit supplies. The system uses blockchain technology to support the safe collection of farm equipment and products across the supply chain. The platform allows for the transfer between authenticated entities in the supply chain. 
+Interaction of the Product 
+The software application combines blockchain and Artificial Intelligence to provide a platform that offers excellent customer service and verifiable products. All the transactions are recorded in the blockchain through smart contracts allowing creation tracing to the source. The AI application uses Rasa to develop a chatbot that offers customer services through the Flutter application, which enables orders, drafting, and credit evaluation. Further, a DApp using React application development framework was used.
+Product Features
+The application has different modules to allow it to perform its functions. The application has a farmer module that helps create new farmers and add them to the blockchain network. One can read, update, and delete farmers from the chain. A transporter module is used to verify the packages, raw materials, or produce. In addition, the transporter module allows packets to be picked from warehouses and in the confirmation of delivery of the products. 
+The supplier module helps create raw materials and gets the address of the raw materials created. The manufacturer module allows receiving the raw materials from the suppliers through the transporter and verifies the source of the materials. The manufacturers can then produce products to market using these raw materials. The wholesaler module allows the receiving of the finished goods from the transporter, verifying the source, and transferring ownership to distributors. The distributor module receives goods from the transporter to the retailers. The retailer’s module gets the goods from distributors, verifies the source, and the consumers can then place orders using the Rasa chatbot. 
+Security Requirements
+The security requirement of the system is that no one should be in a position to infiltrate the supply chain and be able to alter any information in the supply chain process. In addition, the end product must be traced to the raw materials and the farmers who produced the raw materials. At each stage, the process must be transparent and verifiable. 
+Characteristics of Users
+The system users must have a verifiable physical address, have the discretion to use the system, and have valid identifiable characteristics such as id, farm ids, manufacturing location, etc. 
+Restrictions
+There are functions that some of the modules that might be required in the future are likely difficult to implement under blockchain technology. In addition, integrating the blockchain and AI might not work seamlessly as needed; therefore, considerations must be taken when gathering the system requirements. 
+
+
